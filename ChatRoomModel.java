@@ -7,7 +7,7 @@ import java.util.Observable;
  * This ChatRoomModel class contains all of the fields that need to be used in the ChatRoomView and ChatRoomController. This class also
  * implements the Serializable interface, ensuring that objects can be passed through the program.
  *
- * @authors wed413 & clc371
+ * @authors wed413
  *
  */
 public class ChatRoomModel extends Observable implements Serializable {
